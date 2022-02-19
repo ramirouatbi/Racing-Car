@@ -1,0 +1,1076 @@
+fileFormatVersion: 2
+guid: 708d6588196e0b54685c86fbdad07c56
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1552584665320944220
+    second: racing car
+  - first:
+      213: -946040966694425215
+    second: left wheel racing car
+  - first:
+      213: -3435614435324237302
+    second: right wheel racing car
+  - first:
+      213: -7703358914139899021
+    second: red car
+  - first:
+      213: 7565659794387569348
+    second: right wheel red car
+  - first:
+      213: -7527056065348909373
+    second: left wheel red car
+  - first:
+      213: -1105623017244827418
+    second: green car
+  - first:
+      213: 4552792927695832016
+    second: left wheel green car
+  - first:
+      213: 8543597704083116574
+    second: right wheel green car
+  - first:
+      213: 8517165248260294124
+    second: blue car
+  - first:
+      213: -6580485210324044102
+    second: left wheel blue car
+  - first:
+      213: -6897820680886517339
+    second: right wheel blue car
+  - first:
+      213: -1777165533018099291
+    second: orange car
+  - first:
+      213: -3997446964772435967
+    second: left wheel orange car
+  - first:
+      213: 2030392793655751276
+    second: right wheel left car
+  - first:
+      213: 6181091173695895778
+    second: yellow tractor
+  - first:
+      213: 1382944880674701493
+    second: left wheel yellow tractor
+  - first:
+      213: -5847630521885250167
+    second: right wheel yellow tractor
+  - first:
+      213: 6046234020389894016
+    second: sky blue car
+  - first:
+      213: -5399613569379519590
+    second: left wheel sky blue car
+  - first:
+      213: 4931505290279226185
+    second: right wheel sky blue tractor
+  - first:
+      213: -7910491441128466942
+    second: taxi car
+  - first:
+      213: -7038322228780308804
+    second: left wheel taxi car
+  - first:
+      213: -3042062024232135995
+    second: right wheel taxi car
+  - first:
+      213: -6534157982555275763
+    second: police car
+  - first:
+      213: -7321793531376133188
+    second: left wheel police car
+  - first:
+      213: -4950568887543065184
+    second: right wheel police car
+  - first:
+      213: 2884887664055543189
+    second: purple car
+  - first:
+      213: 7656980158404745203
+    second: left wheel purple car
+  - first:
+      213: -6904083118783306943
+    second: right wheel purple car
+  - first:
+      213: 8201991428558325537
+    second: full yellow tractor
+  - first:
+      213: -7883747548651579505
+    second: full sky blue car
+  - first:
+      213: -8054587140986208778
+    second: full taxi car
+  - first:
+      213: 2023122493967933153
+    second: full police car
+  - first:
+      213: 5747731506185266126
+    second: full purple car
+  - first:
+      213: -4723177837353022542
+    second: full racing car
+  - first:
+      213: -7103222720823201839
+    second: full red car
+  - first:
+      213: 5766591599867074888
+    second: full green car
+  - first:
+      213: -1860078826547708851
+    second: full blue car
+  - first:
+      213: 4793646581286701424
+    second: full orange car
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: racing car
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 728
+        width: 89
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 4}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c527c24f683eb8510800000000000000
+      internalID: 1552584665320944220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left wheel racing car
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 691
+        width: 17
+        height: 26
+      alignment: 9
+      pivot: {x: 0.8928106, y: 0.51467425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d263dc0ccfed2f0800000000000000
+      internalID: -946040966694425215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right wheel racing car
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 691
+        width: 17
+        height: 27
+      alignment: 9
+      pivot: {x: 0.118411794, y: 0.4858647}
+      border: {x: 0, y: 0, z: 0, w: 1}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a6b4dafde3250d0800000000000000
+      internalID: -3435614435324237302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red car
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 748
+        width: 110
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 3}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b3a59b1eb281590800000000000000
+      internalID: -7703358914139899021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right wheel red car
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 711
+        width: 20
+        height: 27
+      alignment: 9
+      pivot: {x: 0.886274, y: 0.50000226}
+      border: {x: 0, y: 0, z: 0, w: 1}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca0de79f7f9ef860800000000000000
+      internalID: 7565659794387569348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left wheel red car
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 711
+        width: 21
+        height: 27
+      alignment: 9
+      pivot: {x: 0.20957002, y: 0.4849424}
+      border: {x: 0, y: 0, z: 1, w: 1}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6cd6c73668a8790800000000000000
+      internalID: -7527056065348909373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green car
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 738
+        width: 131
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e060a149b908a0f0800000000000000
+      internalID: -1105623017244827418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left wheel green car
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 685
+        width: 29
+        height: 42
+      alignment: 9
+      pivot: {x: 0.8527769, y: 0.48782057}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d38837cb05ce2f30800000000000000
+      internalID: 4552792927695832016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right wheel green car
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 685
+        width: 29
+        height: 42
+      alignment: 9
+      pivot: {x: 0.14722416, y: 0.49391103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1297bf88d4f09670800000000000000
+      internalID: 8543597704083116574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue car
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 738
+        width: 125
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 2}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce54bdbdaac033670800000000000000
+      internalID: 8517165248260294124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left wheel blue car
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 685
+        width: 30
+        height: 42
+      alignment: 9
+      pivot: {x: 0.82984006, y: 0.5}
+      border: {x: 0, y: 0, z: 1, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab67cece09b6da4a0800000000000000
+      internalID: -6580485210324044102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right wheel blue car
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 685
+        width: 29
+        height: 42
+      alignment: 9
+      pivot: {x: 0.15120512, y: 0.50523597}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a18a6f03a40640a0800000000000000
+      internalID: -6897820680886517339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange car
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 739
+        width: 85
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 2, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a173611d5d3657e0800000000000000
+      internalID: -1777165533018099291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left wheel orange car
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 698
+        width: 15
+        height: 28
+      alignment: 9
+      pivot: {x: 0.8344971, y: 0.4891401}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10886483a273688c0800000000000000
+      internalID: -3997446964772435967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right wheel left car
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 698
+        width: 15
+        height: 28
+      alignment: 9
+      pivot: {x: 0.26337892, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c623d540d776d2c10800000000000000
+      internalID: 2030392793655751276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow tractor
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 484
+        width: 125
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 4}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e832747ca5a7c550800000000000000
+      internalID: 6181091173695895778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left wheel yellow tractor
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 420
+        width: 27
+        height: 38
+      alignment: 9
+      pivot: {x: 0.87355196, y: 0.50500727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b08f84ba05313310800000000000000
+      internalID: 1382944880674701493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right wheel yellow tractor
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 421
+        width: 27
+        height: 38
+      alignment: 9
+      pivot: {x: 0.15464076, y: 0.4999992}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d2c4db50b09dea0800000000000000
+      internalID: -5847630521885250167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sky blue car
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 472
+        width: 132
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 2}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087b836aec988e350800000000000000
+      internalID: 6046234020389894016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left wheel sky blue car
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 420
+        width: 19
+        height: 42
+      alignment: 9
+      pivot: {x: 0.83633983, y: 0.4962892}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9331c82118b015b0800000000000000
+      internalID: -5399613569379519590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right wheel sky blue tractor
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 420
+        width: 19
+        height: 43
+      alignment: 9
+      pivot: {x: 0.21365838, y: 0.4753134}
+      border: {x: 0, y: 0, z: 0, w: 1}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b8d0beee9307440800000000000000
+      internalID: 4931505290279226185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taxi car
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 466
+        width: 98
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 1, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20615c422f9483290800000000000000
+      internalID: -7910491441128466942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left wheel taxi car
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 420
+        width: 12
+        height: 29
+      alignment: 9
+      pivot: {x: 0.8206813, y: 0.4862734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb660da393bd25e90800000000000000
+      internalID: -7038322228780308804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right wheel taxi car
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 420
+        width: 12
+        height: 29
+      alignment: 9
+      pivot: {x: 0.22355144, y: 0.49542552}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c210fcd4bc68c5d0800000000000000
+      internalID: -3042062024232135995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police car
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 469
+        width: 99
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e728f2fe10255a0800000000000000
+      internalID: -6534157982555275763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left wheel police car
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 423
+        width: 14
+        height: 30
+      alignment: 9
+      pivot: {x: 0.8365304, y: 0.48572186}
+      border: {x: 0, y: 0, z: 0, w: 1}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb92936393c36a90800000000000000
+      internalID: -7321793531376133188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right wheel police car
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 423
+        width: 14
+        height: 29
+      alignment: 9
+      pivot: {x: 0.19405691, y: 0.49999896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a515e573db0c4bb0800000000000000
+      internalID: -4950568887543065184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple car
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 465
+        width: 111
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595efe0bb0e290820800000000000000
+      internalID: 2884887664055543189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left wheel purple car
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 421
+        width: 14
+        height: 37
+      alignment: 9
+      pivot: {x: 0.77186805, y: 0.48226517}
+      border: {x: 0, y: 0, z: 1, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7dde9b2ee034a60800000000000000
+      internalID: 7656980158404745203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right wheel purple car
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 421
+        width: 15
+        height: 37
+      alignment: 9
+      pivot: {x: 0.20251465, y: 0.49645418}
+      border: {x: 0, y: 0, z: 2, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143662d9bf4cf20a0800000000000000
+      internalID: -6904083118783306943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: full yellow tractor
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 240
+        width: 125
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 1}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127840e8fb353d170800000000000000
+      internalID: 8201991428558325537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: full sky blue car
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 228
+        width: 131
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8714c7df5d479290800000000000000
+      internalID: -7883747548651579505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: full taxi car
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 222
+        width: 97
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd76199bab583090800000000000000
+      internalID: -8054587140986208778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: full police car
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 225
+        width: 97
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee9f067033931c10800000000000000
+      internalID: 2023122493967933153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: full purple car
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 221
+        width: 110
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec36e722a5b04cf40800000000000000
+      internalID: 5747731506185266126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: full racing car
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 48
+        width: 103
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 14, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb439908c6e37eb0800000000000000
+      internalID: -4723177837353022542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: full red car
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 64
+        width: 109
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 1, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df69d4e1984c6d90800000000000000
+      internalID: -7103222720823201839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: full green car
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 58
+        width: 131
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 3}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84914d2e18c070050800000000000000
+      internalID: 5766591599867074888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: full blue car
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 59
+        width: 125
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4cf561992caf26e0800000000000000
+      internalID: -1860078826547708851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: full orange car
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 57
+        width: 87
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 3, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0790c58fa24768240800000000000000
+      internalID: 4793646581286701424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
